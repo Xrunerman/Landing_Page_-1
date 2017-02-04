@@ -1,0 +1,7 @@
+#folder logs
+logs/
+
+#txt-files
+docs/*.txt
+
+*ini
